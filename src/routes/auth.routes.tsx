@@ -9,9 +9,9 @@ const { Navigator, Screen } = createStackNavigator();
 export function AuthRoutes() {
   return(
     <Navigator
-      screenOptions={{
-        headerShown: false,
-        cardStyle: {
+    screenOptions={{
+      headerShown: false,
+      headerStyle: {
           backgroundColor: 'transparent'
         }
       }}
