@@ -3,7 +3,8 @@ export const theme = {
     primary: '#E51C44',
     
     secondary100: '#0A1033',
-    secondary90: '#0D133D',    
+    secondary90: '#0D133D',
+    secondary85: '#171F52',    
     secondary80: '#0E1647',
     secondary70: '#1B2565',
     secondary60: '#1B2565',
@@ -12,8 +13,8 @@ export const theme = {
     secondary30: '#495BCC', 
 
     overlay: 'rgba(0,0,0,0.7)',
-    highlight: '#ABB1CC',
-    heading: '#DDE3F0',
+    highlight: '#ABB99D1A',
+    heading: '#0A1033',
     line: '#991F36',
     on: '#32BD50',
   },
