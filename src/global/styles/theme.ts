@@ -13,8 +13,8 @@ export const theme = {
     secondary30: '#495BCC', 
 
     overlay: 'rgba(0,0,0,0.7)',
-    highlight: '#ABB99D1A',
-    heading: '#0A1033',
+    highlight: '#ABB1CC',
+    heading: '#DDE3F0',
     line: '#991F36',
     on: '#32BD50',
   },
