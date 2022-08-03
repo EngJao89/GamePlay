@@ -21,13 +21,13 @@ export default function App(){
   }
 
   return(
-    <>
+    <Background>
       <StatusBar 
-        barStyle="dark-content"
+        barStyle="light-content"
         backgroundColor="transparent"
         translucent
       />
       <Routes />
-    </>
+    </Background>
   );
 }
